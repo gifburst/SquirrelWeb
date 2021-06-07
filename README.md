@@ -1,4 +1,8 @@
 # SquirrelWeb
+SquirrelWeb Has been discontinued and been replaced by Squirrel-Navigator
+
+
+
 How to Download! 
 
 
@@ -13,4 +17,4 @@ How to Download!
 
 
 
-SquirrelWeb Has released Get ready to start browsing incognito all the time
+SquirrelWeb Has been discontinued and been replaced by Squirrel-Navigator
